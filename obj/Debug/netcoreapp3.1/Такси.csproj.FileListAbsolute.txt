@@ -1,0 +1,68 @@
+C:\Users\Любимая жена\source\repos\Такси\bin\Debug\netcoreapp3.1\Такси.exe
+C:\Users\Любимая жена\source\repos\Такси\bin\Debug\netcoreapp3.1\Такси.deps.json
+C:\Users\Любимая жена\source\repos\Такси\bin\Debug\netcoreapp3.1\Такси.runtimeconfig.json
+C:\Users\Любимая жена\source\repos\Такси\bin\Debug\netcoreapp3.1\Такси.runtimeconfig.dev.json
+C:\Users\Любимая жена\source\repos\Такси\bin\Debug\netcoreapp3.1\Такси.dll
+C:\Users\Любимая жена\source\repos\Такси\bin\Debug\netcoreapp3.1\Такси.pdb
+C:\Users\Любимая жена\source\repos\Такси\obj\Debug\netcoreapp3.1\Такси.csproj.AssemblyReference.cache
+C:\Users\Любимая жена\source\repos\Такси\obj\Debug\netcoreapp3.1\CarReg.g.cs
+C:\Users\Любимая жена\source\repos\Такси\obj\Debug\netcoreapp3.1\ClientReg.g.cs
+C:\Users\Любимая жена\source\repos\Такси\obj\Debug\netcoreapp3.1\MainWindow.g.cs
+C:\Users\Любимая жена\source\repos\Такси\obj\Debug\netcoreapp3.1\App.g.cs
+C:\Users\Любимая жена\source\repos\Такси\obj\Debug\netcoreapp3.1\Такси_MarkupCompile.cache
+C:\Users\Любимая жена\source\repos\Такси\obj\Debug\netcoreapp3.1\Такси_MarkupCompile.lref
+C:\Users\Любимая жена\source\repos\Такси\obj\Debug\netcoreapp3.1\CarReg.baml
+C:\Users\Любимая жена\source\repos\Такси\obj\Debug\netcoreapp3.1\ClientReg.baml
+C:\Users\Любимая жена\source\repos\Такси\obj\Debug\netcoreapp3.1\MainWindow.baml
+C:\Users\Любимая жена\source\repos\Такси\obj\Debug\netcoreapp3.1\Такси.g.resources
+C:\Users\Любимая жена\source\repos\Такси\obj\Debug\netcoreapp3.1\Такси.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Любимая жена\source\repos\Такси\obj\Debug\netcoreapp3.1\Такси.AssemblyInfoInputs.cache
+C:\Users\Любимая жена\source\repos\Такси\obj\Debug\netcoreapp3.1\Такси.AssemblyInfo.cs
+C:\Users\Любимая жена\source\repos\Такси\obj\Debug\netcoreapp3.1\Такси.csproj.CoreCompileInputs.cache
+C:\Users\Любимая жена\source\repos\Такси\obj\Debug\netcoreapp3.1\Такси.dll
+C:\Users\Любимая жена\source\repos\Такси\obj\Debug\netcoreapp3.1\Такси.pdb
+C:\Users\Любимая жена\source\repos\Такси\obj\Debug\netcoreapp3.1\Такси.genruntimeconfig.cache
+C:\Users\Любимая жена\source\repos\Такси\obj\Debug\netcoreapp3.1\Такси.csproj.CopyComplete
+C:\Users\Любимая жена\source\repos\Такси\bin\Debug\netcoreapp3.1\System.Data.SqlClient.dll
+C:\Users\Любимая жена\source\repos\Такси\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\Любимая жена\source\repos\Такси\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\Любимая жена\source\repos\Такси\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\Любимая жена\source\repos\Такси\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Любимая жена\source\repos\Такси\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\ДИПЛОМ\маша\WpfTaxx\Такси\obj\Debug\netcoreapp3.1\Такси.dll
+D:\ДИПЛОМ\маша\WpfTaxx\Такси\obj\Debug\netcoreapp3.1\Такси.pdb
+D:\ДИПЛОМ\маша\WpfTaxx\Такси\obj\Debug\netcoreapp3.1\Такси.csproj.AssemblyReference.cache
+D:\ДИПЛОМ\маша\WpfTaxx\Такси\obj\Debug\netcoreapp3.1\CarReg.g.cs
+D:\ДИПЛОМ\маша\WpfTaxx\Такси\obj\Debug\netcoreapp3.1\ClientReg.g.cs
+D:\ДИПЛОМ\маша\WpfTaxx\Такси\obj\Debug\netcoreapp3.1\MainClientWin.g.cs
+D:\ДИПЛОМ\маша\WpfTaxx\Такси\obj\Debug\netcoreapp3.1\MainWindow.g.cs
+D:\ДИПЛОМ\маша\WpfTaxx\Такси\obj\Debug\netcoreapp3.1\App.g.cs
+D:\ДИПЛОМ\маша\WpfTaxx\Такси\obj\Debug\netcoreapp3.1\Такси_MarkupCompile.cache
+D:\ДИПЛОМ\маша\WpfTaxx\Такси\obj\Debug\netcoreapp3.1\Такси_MarkupCompile.lref
+D:\ДИПЛОМ\маша\WpfTaxx\Такси\bin\Debug\netcoreapp3.1\Такси.exe
+D:\ДИПЛОМ\маша\WpfTaxx\Такси\bin\Debug\netcoreapp3.1\Такси.deps.json
+D:\ДИПЛОМ\маша\WpfTaxx\Такси\bin\Debug\netcoreapp3.1\Такси.runtimeconfig.json
+D:\ДИПЛОМ\маша\WpfTaxx\Такси\bin\Debug\netcoreapp3.1\Такси.runtimeconfig.dev.json
+D:\ДИПЛОМ\маша\WpfTaxx\Такси\bin\Debug\netcoreapp3.1\Такси.dll
+D:\ДИПЛОМ\маша\WpfTaxx\Такси\bin\Debug\netcoreapp3.1\Такси.pdb
+D:\ДИПЛОМ\маша\WpfTaxx\Такси\bin\Debug\netcoreapp3.1\System.Data.SqlClient.dll
+D:\ДИПЛОМ\маша\WpfTaxx\Такси\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+D:\ДИПЛОМ\маша\WpfTaxx\Такси\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+D:\ДИПЛОМ\маша\WpfTaxx\Такси\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+D:\ДИПЛОМ\маша\WpfTaxx\Такси\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\ДИПЛОМ\маша\WpfTaxx\Такси\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\ДИПЛОМ\маша\WpfTaxx\Такси\obj\Debug\netcoreapp3.1\Такси.GeneratedMSBuildEditorConfig.editorconfig
+D:\ДИПЛОМ\маша\WpfTaxx\Такси\obj\Debug\netcoreapp3.1\Такси.AssemblyInfoInputs.cache
+D:\ДИПЛОМ\маша\WpfTaxx\Такси\obj\Debug\netcoreapp3.1\Такси.AssemblyInfo.cs
+D:\ДИПЛОМ\маша\WpfTaxx\Такси\obj\Debug\netcoreapp3.1\Такси.csproj.CoreCompileInputs.cache
+D:\ДИПЛОМ\маша\WpfTaxx\Такси\obj\Debug\netcoreapp3.1\Такси.csproj.CopyComplete
+D:\ДИПЛОМ\маша\WpfTaxx\Такси\obj\Debug\netcoreapp3.1\Такси.genruntimeconfig.cache
+D:\ДИПЛОМ\маша\WpfTaxx\Такси\obj\Debug\netcoreapp3.1\DriverReq.g.cs
+D:\ДИПЛОМ\маша\WpfTaxx\Такси\obj\Debug\netcoreapp3.1\LoginClient.g.cs
+D:\ДИПЛОМ\маша\WpfTaxx\Такси\obj\Debug\netcoreapp3.1\CarReg.baml
+D:\ДИПЛОМ\маша\WpfTaxx\Такси\obj\Debug\netcoreapp3.1\ClientReg.baml
+D:\ДИПЛОМ\маша\WpfTaxx\Такси\obj\Debug\netcoreapp3.1\MainClientWin.baml
+D:\ДИПЛОМ\маша\WpfTaxx\Такси\obj\Debug\netcoreapp3.1\MainWindow.baml
+D:\ДИПЛОМ\маша\WpfTaxx\Такси\obj\Debug\netcoreapp3.1\DriverReq.baml
+D:\ДИПЛОМ\маша\WpfTaxx\Такси\obj\Debug\netcoreapp3.1\LoginClient.baml
+D:\ДИПЛОМ\маша\WpfTaxx\Такси\obj\Debug\netcoreapp3.1\Такси.g.resources
